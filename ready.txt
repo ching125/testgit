@@ -3,4 +3,9 @@ haha~~
 xixi~~
 hehe~~
 kao~~
+<<<<<<< HEAD
 wokaowokao!!
+=======
+wokao~`
+stash~~~~~~~
+>>>>>>> dev
